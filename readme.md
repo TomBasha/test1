@@ -1,3 +1,3 @@
 new file
 
-This is just for testing purposes.
+This is just for really simple testing.
